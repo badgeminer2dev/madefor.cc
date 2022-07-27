@@ -23,6 +23,6 @@ class Domain(DomainOptional):
 
 domains: Dict[str, Domain] = {
     # Please make sure to keep this sorted!
-    "wolf-os": { "cname": "cc-wolf-os.github.io" },
+    "wolf": { "cname": "cc-wolf-os.github.io" },
     "www": { "cname": "madefor.cc" },
 }
